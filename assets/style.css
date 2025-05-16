@@ -2,3 +2,13 @@
     height: 500px;
     object-fit: cover;
 }
+  .logo {
+    font-size: 35px;
+    font-weight: bolder;
+    text-shadow: 2px 2px 4px #f7f304;
+    color: whitesmoke;
+  }
+    .logo:hover{
+        color: #f7f304;
+        text-shadow: 2px 2px 4px #000000;
+    }
